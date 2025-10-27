@@ -11,7 +11,7 @@ I’m currently engineering a system that helps teams clean and structure messy 
 --- 
 ## Previous Projects 
 ### **OracleZero — AI Portfolio Management Platform**
-[OracleZero – AI Portfolio Management Platform](oraclezero.manovay.info)
+[OracleZero – AI Portfolio Management Platform](https://ozero.manovay.info/)
 Built an LLM-based portfolio optimizer trained on 3 years of S&P 500 data using LoRA fine-tuning.  
 Deployed automated trading through the **Alpaca API** with **RunPod inference servers**, tracking live portfolio performance via Flask + Plotly dashboards.  
 Achieved +5.12% cumulative return and strong Sharpe stability versus the S&P 500 benchmark.
