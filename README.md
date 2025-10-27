@@ -1,16 +1,28 @@
-## Hi there 👋
+# Manovay Sharma
 
-<!--
-**manovay/manovay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building applied AI systems across finance, data infrastructure, and LLM research.
 
-Here are some ideas to get you started:
+Currently: M.S. Computer Engineering (AI Specialization) @ NYU Tandon  
+Interests: ML systems, RAG pipelines, model deployment, edge AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Featured Work
+- **[OracleZero](ozero.manovay.info)** – Fine-tuned LLaMA-2 LoRA model for S&P 500 portfolio rebalancing with automated trading (Flask + RunPod + Alpaca API)
+- **AP Study Guide Generator** – RAG pipeline for AP exam PDFs (Selenium, PyPDF2, FAISS, GPT-4o)
+- **Environmental Disaster Classifier** – Geospatial ML model trained on NASA disaster data, visualized with Mapbox
+
+---
+
+## Tech Stack
+**Languages:** Python, Java, SQL  
+**Frameworks:** PyTorch, FastAPI, React, Flask  
+**Tools:** PostgreSQL, MongoDB, Docker, AWS, Supabase  
+
+---
+
+## Elsewhere
+- [LinkedIn](https://linkedin.com/in/manovay-sharma)  
+- [Email](mailto:manovays2004@gmail.com)  
+- [Website](manovay.info)
+
