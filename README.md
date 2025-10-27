@@ -1,6 +1,6 @@
 # Manovay Sharma
-Currently pursuing an **M.S. in Computer Engineering (AI Specialization)** at **New York University**,  
-after completing an **Accelerated B.S. in Data Science and Computer Science** at **UMass Amherst**.  
+Pursuing an **M.S. in Computer Engineering (AI Specialization)** at **New York University**    
+Completed an **Accelerated B.S. in Data Science and Computer Science** at **UMass Amherst**  
 ---
 
 
