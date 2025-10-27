@@ -37,7 +37,6 @@ Supported 10+ concurrent sessions and <200ms synchronization latency, achieving 
 
 ## Tech Stack
 **Languages:**  Python, Java, R, JavaScript, SQL, HTML, CSS, C, Racket  
-
 **Frameworks:** PyTorch, FastAPI, React, Flask, TensorFlow  
 **Tools:** PostgreSQL, MongoDB, Docker, AWS, Supabase  
 
